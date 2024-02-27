@@ -1,6 +1,7 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=25&pause=1000&color=F77C48&random=false&width=435&lines=Welcome+to+my+NEW+World)](https://git.io/typing-svg) </p>
+<div align="center"> 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&pause=1000&color=F77C48&random=false&width=260&lines=Welcome+to+my+NEW+World)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   
