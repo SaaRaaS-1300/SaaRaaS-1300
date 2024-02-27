@@ -4,8 +4,7 @@
 </div>
 
 <div align="center">
-
-  <img src="img/img-1.jpg" width="685" style="border-radius: 10px; border: 3px solid pink;">
+  <img src="img/img-1.jpg" width="690" style="background-color: pink; padding: 3px; border-radius: 10px;">
 </div>
 
 <div align="center">
