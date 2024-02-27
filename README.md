@@ -1,5 +1,5 @@
 # 🌠***Welcome to my NEW World***🌠
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 <!--
 **SaaRaaS-1300/SaaRaaS-1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
