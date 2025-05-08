@@ -4,15 +4,16 @@
 </div>
 
 <div align="center">
-  <img src="img/img-1.jpg" width="775" style="background-color: pink; padding: 3px; border-radius: 10px;">
-</div>
-
-<div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=SaaRaaS-1300&show_icons=true&theme=gruvbox" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaaRaaS-1300" height="200">
 </div>
 
+---
+
+<div align="center">
+  <img src="img/img-1.jpg" width="845" style="background-color: pink; padding: 3px; border-radius: 10px;">
+</div>
 
 ## 🌠***About Me***
 
